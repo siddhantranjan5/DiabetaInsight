@@ -1,0 +1,14 @@
+Drug_Name,Drug_Class,NPPA_Price_Per_Unit_INR,Monthly_Dose_Units,Treatment_Line,NPPA_Source,Monthly_Cost_INR
+Metformin 500mg,Biguanide,1.51,60,First Line,NPPA Anti-diabetic Ceiling Prices Notification,90.6
+Metformin 750mg,Biguanide,3.05,60,First Line,NPPA Anti-diabetic Ceiling Prices Notification,183.0
+Metformin 1000mg,Biguanide,3.61,60,First Line,NPPA Anti-diabetic Ceiling Prices Notification,216.6
+Glimepiride 1mg,Sulfonylurea,3.6,60,Second Line,NPPA Anti-diabetic Ceiling Prices Notification,216.0
+Glimepiride 2mg,Sulfonylurea,5.72,60,Second Line,NPPA Anti-diabetic Ceiling Prices Notification,343.2
+Sitagliptin + Glimepiride + Metformin (50/1/500mg),Triple Combination,13.24,30,Third Line,"NPPA S.O. 4170(E), Sept 15 2025",397.2
+Sitagliptin + Glimepiride + Metformin (50/2/500mg),Triple Combination,14.66,30,Third Line,"NPPA S.O. 4170(E), Sept 15 2025",439.8
+Dapagliflozin + Glimepiride + Metformin ER (10/1/500mg),Triple Combination,10.8,30,Third Line,"NPPA S.O. 4170(E), Sept 15 2025",324.0
+Dapagliflozin + Glimepiride + Metformin ER (10/2/500mg),Triple Combination,11.7,30,Third Line,"NPPA S.O. 4170(E), Sept 15 2025",351.0
+Empagliflozin + Metformin (12.5/500mg),SGLT2+Biguanide,18.1,30,Second Line,"NPPA 134th Authority Meeting, June 26 2025",543.0
+Empagliflozin + Metformin ER (12.5/1000mg),SGLT2+Biguanide,10.8,30,Second Line,"NPPA 134th Authority Meeting, June 26 2025",324.0
+Insulin Human Soluble 40IU/ml (per ml),Insulin,15.09,300,Any Line,NPPA Anti-diabetic Ceiling Prices Notification,4527.0
+Insulin NPH 40IU/ml (per ml),Insulin,15.09,300,Any Line,NPPA Anti-diabetic Ceiling Prices Notification,4527.0
